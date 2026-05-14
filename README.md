@@ -1,5 +1,5 @@
 ## Tinkercad Traffic Light Simulator
-An Arduino-based traffic light simulator built and tested in Autodesk Tinkercad. This project replicates a standard four-way or single-intersection traffic signal sequence using LEDs and timed delays.
+An Arduino-based traffic light simulator built and tested in Autodesk Tinkercad. This project replicates a standard four-way or single-intersection traffic signal sequence using LEDs and timed delays. You can access the project [here](https://www.tinkercad.com/things/jFxuBYmhQMj-traffic-light/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall)
 ## Features
 
 * Standard Sequence: Red $Green $Yellow $Red loops.
